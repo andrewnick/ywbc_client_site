@@ -7,15 +7,15 @@ require_once('includes/home_head.php');
 <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 
 <div class="row row_share_0 share">
-<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-<h1> let's share</h1>
-</div>
+	<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+		<h1> let's share</h1>
+	</div>
 </div>
 
 <div class="row row_share_1 share">
-<div class="col-xs-2 col-xs-offset-1 col-sm-2 col-sm-offset-5 col-md-2 col-md-offset-5 col-lg-2 col-lg-offset-5">
-<img src="images/Flickr_bw.png" alt="pic" title="pic of flickr icon" class="img-responsive">
-</div>
+	<div class="col-xs-2 col-xs-offset-1 col-sm-2 col-sm-offset-5 col-md-2 col-md-offset-5 col-lg-2 col-lg-offset-5">
+		<img src="images/Flickr_bw.png" alt="pic" title="pic of flickr icon" class="img-responsive">
+	</div>
 </div>
 
 
@@ -39,55 +39,43 @@ require_once('includes/home_head.php');
 
 
 <div class="row row_share_7 share">
-<div class="col-xs-2 col-xs-offset-1 col-sm-2 col-sm-offset-2 col-md-2 col-md-offset-2 col-lg-2 col-lg-offset-2">
-<img src="images/comm.png" alt="pic" title="pic of flickr icon" class="img-responsive">
-</div>
+	<div class="col-xs-2 col-xs-offset-1 col-sm-2 col-sm-offset-2 col-md-2 col-md-offset-2 col-lg-2 col-lg-offset-2">
+		<img src="images/comm.png" alt="pic" title="pic of flickr icon" class="img-responsive">
+	</div>
 </div>
 
 <div class="row row_share_6 share">
-<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-<input type="text" class="form-control input-lg" placeholder="Customer Endorsement">
-<br>
-<input type="text" class="form-control input-lg" placeholder="Customer Endorsement">
+	<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+		<input type="text" class="form-control input-lg" placeholder="Customer Endorsement">
+		<br>
+		<input type="text" class="form-control input-lg" placeholder="Customer Endorsement">
+	</div>
 </div>
-</div>
-
 
 <div class="row row_share_3 share">
-<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-<h2> leave a comment</h2>
+	<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+		<h2> leave a comment</h2>
+	</div>
 </div>
-</div>
-
-
 
 <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-<input type="text" class="form-control input-lg" placeholder="Text input">
+	<input type="text" class="form-control input-lg" placeholder="Text input">
 </div>
-
-
-
-
-
 
 <div class="row row_share_4 share">
-<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-<h2> or follow us on</h2>
-</div>
+	<div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+		<h2> or follow us on</h2>
+	</div>
 </div>
 
 <div class="row row_share_5 share">
 	<div class="col-xs-2 col-xs-offset-1 col-sm-2 col-sm-offset-4 col-md-2 col-md-offset-4 col-lg-2 col-lg-offset-4">
-	<img src="images/fb_white.png" alt="pic" title="pic of flickr icon" class="img-responsive">
+		<img src="images/fb_white.png" alt="pic" title="pic of flickr icon" class="img-responsive">
 	</div>
 	<div class="col-xs-2 col-sm-2 col-md-2 col-md-offset-0 col-lg-2 col-lg-offset-0">
 	<img src="images/twit_white.png" alt="pic" title="pic of flickr icon" class="img-responsive">
 </div>
 </div>
-
-
-
-
 
 
 <script type="text/javascript">
@@ -131,20 +119,12 @@ $(document).ready(function(){
 
 			dataType: 'jsonp'
 		});
-
-	}
-
-
-
+}
 
 
 });
 
 </script>
-
-
-
-
 
 <?php
 
