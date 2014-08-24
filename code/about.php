@@ -4,30 +4,6 @@ require_once('includes/home_head.php');
 
 ?>
 
-		<!--<div class="row row_1 clearfix hidden-xs">
-			
-			<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
-			<a href="index.php"><img src="images/skie_logo.png" alt="pic" title="picture of skie logo" class="img-responsive logo_pic"></a>
-			</div>
-
-		</div>-->
-
-		<!--<div class="row row_1 clearfix hidden-xs">
-			
-			<div class="col-sm-5 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
-			<img src="images/skie_logo.png" alt="pic" title="picture of skie logo" class="img-responsive logo_pic">
-			</div>
-			<div class="col-sm-5 col-md-5 col-lg-5">
-			<nav class="home-nav">
-				<ul class="home-ul">
-					<li class="home-nav-item item_1"><a href="about.php">about us</a></li>
-					<li class="home-nav-item item_2"><a href="tech.php">technology</a></li>
-					<li class="home-nav-item item_3"><a href="buy.php">buy it</a></li>
-					<li class="home-nav-item item_4"><a href="share.php">share your<br><span>experience</span></a></li>
-				</ul>
-			</nav>
-			</div>-->
-
 		<div class="row row_about_1 about clearfix">
 			<div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
 			<h1>its story, our story</h1>
@@ -47,11 +23,6 @@ require_once('includes/home_head.php');
 
 		  	</div>
 		  </div>
-
-		  <!--<div class="row row_about_divider about clearfix col-xs-6 col-xs-offset-3">
-		  	
-		  </div>-->
-
 
 		  <div class="row row_about_3 about clearfix">
 			<div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
@@ -77,23 +48,17 @@ require_once('includes/home_head.php');
 		  	</div>
 		  </div>
 
-		  <!--<div class="row row_about_divider about clearfix col-xs-6 col-xs-offset-3">
-		  	
-		  </div>-->
-
 		  <div class="row row_about_5 about clearfix">
 		  	<div class="col-xs-4 col-xs-offset-4 col-sm-3 col-sm-offset-5 col-md-3 col-md-offset-5 col-lg-3 col-lg-offset-5 img-responsive">
 		  	<img src="images/envelope.png" alt="pic" title="pic of envelope">
 		  	</div>
 		  </div>
 
-
 		  <div class="row row_about_6 about clearfix">
 		  	<div class"col-xs-8 col-xs-offset-2">
 		  	<h1>Any question? Do not hesitate<br>to contact us.</h1>
 		  	</div>
 		  </div>
-
 
 		<form class="form-horizontal row_about_7 clearfix" role="form">
   			<div class="form-group">
@@ -111,29 +76,12 @@ require_once('includes/home_head.php');
     			</div>
   			</div>
   		</form>
-
   		
-
 <?php
 
 require_once('includes/footer.php');
 
 ?>
-
-
-
-
-
-	
-	
-
-
-
-
-
-
 	<!--end of container div-->
 	</div>
-		
-
 </body>		
